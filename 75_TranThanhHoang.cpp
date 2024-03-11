@@ -7,7 +7,7 @@ cout << 'helloworld';
 cout << "Hello khánh";
 =======
 <<<<<<< HEAD
-cout << 'helloworl789';
+cout << 'khong';
 =======
 cout << 'he3';
 >>>>>>> 75_TranThanhHoang
