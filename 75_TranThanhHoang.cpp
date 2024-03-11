@@ -1,2 +1,2 @@
 cout<<"hello world"
-cout<<"xin chao"
+cout<<"xin chao moi nguoi"
