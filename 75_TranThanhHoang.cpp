@@ -1,6 +1,6 @@
 #include <iostream>
 <<<<<<< HEAD
-cout << 'helloworld123123222222';
+cout << 'helloworld';
 =======
 <<<<<<< HEAD
 cout << 'helloworld';
